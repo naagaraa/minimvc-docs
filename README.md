@@ -1,107 +1,30 @@
-# introduction
+## DOCUMENTATION PROJECT NATIVE FRAMEWORK PHP
 
-## MINI MVC PHP NATIVE PROJECT
+good news now i'am open public documentation for mini mvc php native caused i'm not currently update my documentation. maybe you want update the documentation in indonesia langauge
 
-### Background
+**sponsoship**
+you can support me to keep update and make content with this link, i need eat, place, and pay a service.
+siapapun, berapapun, saya ucapkan terimakasih
 
-Project ini saya belum beri nama pasti, yang pasti untuk sekarang ini adalah MINI MVC PHP, karena memang ini MVC atau model view controller. dan project ini juga OOP atau dikenal sebagai Object Oriented Programing. saya membangun ini atas dasar permasalahan yang saya hadapi di perkuliahan keterbatasan untuk menggunakan framework backend milik orang lain dalam pengerjaan tugas dimana hal itu harus membuat saya membangun kerangka kerja dari awal untuk tugas Web Development.  maka dari itu saya membangun kerangka kerja dari native, basiclly saya mempelajari PHP jadi kerangka kerja ini dibangun menggunakan bahasa pemerograman PHP.
+- saweria.co : [ Traktir baso aja at saweria [ DANA, OVO, dll ] ](https://saweria.co/naagaraa)
+- trakterr.id : [ Traktir baso aja at saweria [ DANA, OVO, dll ] ](https://trakteer.id/naagaraa)
 
-tahun 2020 coba saya maintenance perubahan structur codenya penambahan function, libraries dan lain lain, hal ini dilakukan untuk sebisa mungkin saya me includkan libraries untuk siap pakai seperti framework lainnya. seperti package manager, envirotment variabel, routing, command shell. namun saya hanyalah manusia biasa yang coba belajar membuatnya.
+<br>
 
-### System Requiretment
+# About Permission
 
-by default ketika saya membangun project ini envirotment yang digunakan adalah sebagai berikut.
+project ini sepenuhnya dibangun berdasarkan pengalaman saya belajar di internet dan saya memodifikasi dan mengembangkannya hingga saat ini, ini adalah full stack framework php pertama buatanku, please tell me if you save my framework. don't copy without permission. for now only support indonesia language not in english. i need more time for translate about documentation.
 
-{% hint style="info" %}
-PHP yang disupport 7.4
-{% endhint %}
+--- 
 
-#### windows
+##### This project is currently on break time, cause of me, for now has working my TA ( final project for my graduation )
 
-* PHP >= 7.4
-* composer >= 1.0.4
-* git >= 2.23.0
-* apache
+<!-- Description -->
+<p>pembukaan indonesia : </p>
+<p>Hi, Project ini dibuat dari latihan saya belajar web programing dari berbagai sumber di internet seperti youtube, stackoverflow dan github. project ini merupakan php native yang di buat menggunakan pattern MVC dengan konsep OOP (Object oriented programing )</p>
 
-{% hint style="info" %}
-perhatikan pada window user yang menggunakan XAMPP /WAMP /LARAGON
-{% endhint %}
+Thank you kindly for the ⭐ and forks. When I first started working on this project in 2019, I had just undergraduated from college and had no prior exposure to web-development or open source. cause i'am start learn web-development and also explorer to many algorithm mostly used at skripsi (TA). so why i'am not build the package for reusability ? why not.
 
-#### windows (xampp)
+Without financial support, it was overwhelming to fix these issues, adding new method, reading a journal, not to mention that I felt like an absolute imposter. With a heavy heart 💔, I decided to keep continue :( and this in my portofolio my project
 
-check versinya dan install composer dan git
-
-* PHP >= 7.4
-* composer >= 1.0.4
-* git >= 2.30.0
-* xdebug-php (optional)
-
-{% hint style="danger" %}
-test in ubuntu os always problem.
-{% endhint %}
-
-#### ubuntu
-
-* PHP >= 7.4
-* composer >= 1.0.4
-* git >= 2.23.0
-* apache
-
-{% hint style="danger" %}
-tidak support PHP versi 8.&#x20;
-{% endhint %}
-
-## Author dan Mainteiners
-
-miyuki nagara as eka jaya nagara student informatic of engginering at jakarta
-
-## Fiture
-
-untuk fiture ini sebenarnya dalam development saya buat karna permasalahan saja yang sering saya hadapi.
-
-* smptp email&#x20;
-* php mathecmatic&#x20;
-* slug
-* debugging : dump( ), dd( ), var\_dump ( ) , print\_r ( )
-* command shell **nagara**
-* mpdf
-* PDO
-* env
-* generate random file name
-* timezone
-* api
-* dynamic routing
-* info agent
-* migration
-* libraries
-* uploaded files
-* OOP
-* build in server
-* htaccess
-
-## Thanks To&#x20;
-
-* [php-math](https://packagist.org/packages/markrogoyski/math-php)  => [markrogoyski](https://github.com/markrogoyski)
-* [router](https://packagist.org/packages/bramus/router) => [bramus](https://github.com/bramus)
-* [command](https://packagist.org/packages/symfony/console) => [symfony](https://github.com/symfony/console)
-* [env](https://packagist.org/packages/vlucas/phpdotenv) => [vance Lucal](https://github.com/vlucas)
-* [mailer](https://packagist.org/packages/phpmailer/phpmailer) => [PHPMailer](https://github.com/PHPMailer)
-* [mpdf](https://packagist.org/packages/mpdf/mpdf) =>[ Matěj Humpál ](https://github.com/finwe)and [mPDF](https://github.com/mpdf)
-
-{% hint style="success" %}
-saya sertakan link download source untuk syarat bila belum terpenuhi
-{% endhint %}
-
-### link Donwload requiretment
-
-* [git-vcs](https://git-scm.com/book/id/v2/Memulai-Tentang-Version-Control)
-* [composer](https://getcomposer.org/download/)
-* [xampp](https://www.apachefriends.org/xampp-files/7.4.18/xampp-windows-x64-7.4.18-0-VC15-installer.exe)
-* [xdebug ](https://xdebug.org)(optional untuk pretty debug view)
-
-build in server lainya
-
-* [laragon](https://laragon.org/download/index.html)&#x20;
-* [wamp](https://www.wampserver.com/en/)
-
-cara install xdebug install untuk windows [xdebug](https://xdebug.org/wizard). download file dll dan letakan pada `php/`
+---
