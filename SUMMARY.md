@@ -1,6 +1,7 @@
 # Table of contents
 
 * [introduction](README.md)
+* [Welcome](welcome.md)
 * [getting started](getting-started/README.md)
   * [apa itu mini mvc php native](getting-started/apa-itu-mini-mvc-php-native.md)
   * [Installation](getting-started/installation.md)
