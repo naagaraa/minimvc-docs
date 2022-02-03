@@ -1,10 +1,3 @@
----
-description: >-
-  mini mvc php native sebuah project kerangka kerja PHP native dengan pattern
-  MVC dan mengadopsi OOP atau object oriented programing PHP. bahasa indonesia
-  untuk saat ini.
----
-
 # introduction
 
 ## MINI MVC PHP NATIVE PROJECT
@@ -111,4 +104,4 @@ build in server lainya
 * [laragon](https://laragon.org/download/index.html)&#x20;
 * [wamp](https://www.wampserver.com/en/)
 
-cara install xdebug install untuk windows [xdebug](https://xdebug.org/wizard). download file dll dan letakan pada `php/ext/` directtory.
+cara install xdebug install untuk windows [xdebug](https://xdebug.org/wizard). download file dll dan letakan pada `php/`
